@@ -1,0 +1,16 @@
+{
+  "name": "新能源30天打卡",
+  "short_name": "新能源30天",
+  "description": "新能源领域一个月学习计划：每日课程链接、打卡签到、笔记与资料阅读",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
